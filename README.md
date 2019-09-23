@@ -2,9 +2,12 @@
 
 
 ### In this link you can checkout page:
-https://tender-saha-008f70.netlify.com/
+<p><a href="https://tender-saha-008f70.netlify.com/" title="title">Rick & Morty</a></p>
+
 
 Project idea is to learn basics of routing and graphQl.
+
+
 
 Rick and Morty is an American adult animated science fiction sitcom created by Justin Roiland and Dan Harmon for Cartoon Network's late-night programming block Adult Swim. The series follows the misadventures of cynical mad scientist Rick Sanchez and his good-hearted but fretful grandson Morty Smith, who split their time between domestic life and interdimensional adventures.
 

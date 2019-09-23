@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card, Container, Row, Col, Spinner, Dropdown } from 'react-bootstrap';
+import { Card, Container, Row, Col, Spinner } from 'react-bootstrap';
 import { FETCH_CHARACTERS } from "./queries";
 import { useQuery } from '@apollo/react-hooks';
 import { Link } from 'react-router-dom'
