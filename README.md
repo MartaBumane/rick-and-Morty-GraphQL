@@ -2,8 +2,7 @@
 
 
 ### In this link you can checkout page:
-<p><a href="https://tender-saha-008f70.netlify.com/" title="title">foo</a></p>
-
+https://tender-saha-008f70.netlify.com/
 
 Project idea is to learn basics of routing and graphQl.
 
